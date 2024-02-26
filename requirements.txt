@@ -1,4 +1,3 @@
-psycopg2-binary~=2.9.6
 av==10.0.0
 keras==2.13.1
 mediapipe==0.10.3
