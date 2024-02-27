@@ -1,4 +1,4 @@
-Open terminal Type git clone repo-name
+Open terminal Type git clone https://github.com/shivam-jaiswal-2002/emotion_detection_music_system.git
 in terminal type npm install
 which will install all the required packages
 now there is already 2 emotions recorded angry and happy
