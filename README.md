@@ -1,7 +1,4 @@
-Open terminal Type git clone https://github.com/shivam-jaiswal-2002/emotion_detection_music_system.git
-in terminal type npm install
-which will install all the required packages
-now there is already 2 emotions recorded angry and happy
-You can directly type streamlit run app.py file which will open the streamlit app and there you go 
-if you want to add more emotions you can run data_collection.py file the record the emotion which you want (sad, fight, fear etc)
-then train on these and run you streamlit app again.
+Clone the repo
+In terminal type streamlit run app.py and there you go 
+There is already few emotion trained on our model if you need to add more emotions you can run the data_collection.py file and then record the emotion you want then run data_training.py file .
+Once the model is trained you can again run "streamlit run app.py"
